@@ -1,1 +1,2 @@
-# menghitung-volume-luas_permukaan-keliling-balok
+# Menghitung Volume balok, Luas Permukaan Balok, dan Keliling Balok
+Ini adalah program sederhana dengan menggunakan bahasa pemograman C++, program ini di buat untuk menghitung volume, luas permukaan, dan keliling pada balok. Program ini berjalan dengan cara memasukan panjang, lebar, dan tinggi pada balok, setelah itu akan di proses untuk menentukan volume, luas permukaan, dan keliling pada pada balok yang akan di tampilkan oleh konsol (display).
